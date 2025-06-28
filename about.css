@@ -1,0 +1,27 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(to top, rgb(201, 110, 201), #87CEEB);
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+header {
+  text-align: center;
+  padding: 20px;
+  background-color: #ffffffdd;
+  border-bottom: 3px solid #a27bdc;
+}
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #4b0082;
+  font-weight: bold;
+}
+.about, .contact {
+  text-align: center;
+  padding: 40px;
+  margin: 20px;
+  background-color: #ffffffc9;
+  border-radius: 15px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
